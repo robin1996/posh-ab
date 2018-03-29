@@ -3,4 +3,4 @@ Vim abbreviations for PowerShell
 
 ## Install
 
-**Vim-Plug** `plug 'robin1996/posh-ab'`
+**Vim-Plug** `Plug 'robin1996/posh-ab'`
